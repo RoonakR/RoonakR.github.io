@@ -3,7 +3,7 @@ title: "An Attention Model to Analyse the Risk of Agitation and Urinary Tract In
 collection: publications
 permalink: /publication/2021-01-08-attention-model
 excerpt: 'This paper presents an integrated platform to collect in-home sensor data and performed an observational study to apply machine learning models for agitation and UTI risk analysis.'
-date: 2021-01
+date: 2021-01-08
 venue: 'arXiv preprint arXiv:2101.07007'
 paperurl: 'https://arxiv.org/pdf/2101.07007.pdf'
 citation: 'Li, H., Rezvani, R., Kolanko, M.A., Sharp, D.J., Wairagkar, M., Vaidyanathan, R., Nilforooshan, R. and Barnaghi, P. (2021). &quot;An Attention Model to Analyse the Risk of Agitation and Urinary Tract Infections in People with Dementia.&quot; <i>arXiv preprint arXiv:2101.07007</i>.'
