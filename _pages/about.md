@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 I am a passionate and curious Machine Learning researcher who enjoys learning new things. 
 
 I am final year PhD researcher in Machine Learning at [Centre for Vision, Speech and Signal Processing (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) at the University of Surrey. I am a researcher in [Healthy Home Programme](https://ukdri.ac.uk/team/payam-barnaghi) at [Care Research and Technology Centre](https://ukdri.ac.uk/centres/care-research-technology) at UK Dementia Research Institue (UK DRI). 
