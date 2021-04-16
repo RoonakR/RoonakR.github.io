@@ -2,7 +2,8 @@
 title: "IoTCrawler: Challenges and Solutions for Searching the Internet of Things"
 collection: publications
 permalink: /publication/2021-01-IoT-crawler
-excerpt: 'This paper presents the IoT search framework IoTCrawler.'
+excerpt: 'This paper presents the IoT search framework IoTCrawler. 
+[[PDF]](https://www.mdpi.com/1424-8220/21/5/1559/htm) [[PROJECT]](https://iotcrawler.readthedocs.io/en/latest/introduction.html)'
 date: 2021-02-24
 venue: 'Sensors'
 citation: 'Iggena, T., Bin Ilyas, E., Fischer, M., Tönjes, R., Elsaleh, T., Rezvani, R., Pourshahrokhi, N., Bischof, S., Fernbach, A., Xavier Parreira, J. and Schneider, P. (2021). &quot;IoTCrawler: Challenges and Solutions for Searching the Internet of Things.&quot; <i>Sensors, 21(5)</i>. p.1559.'
