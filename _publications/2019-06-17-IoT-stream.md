@@ -2,7 +2,7 @@
 title: "IoT-Stream: A Lightweight Ontology for Internet of Things Data Streams"
 collection: publications
 permalink: /publication/2019-06-17-IoT-stream
-excerpt: 'In this paper, we present a lightweight semantic model to annotate IoT streams.'
+excerpt: 'In this paper, we present a lightweight semantic model to annotate IoT streams. [[PDF]](https://epubs.surrey.ac.uk/851830/1/IoT-Stream.pdf) [[CODE]](http://iot.ee.surrey.ac.uk/iot-crawler/ontology/iot-stream/)'
 date: 2019-06-17
 venue: 'IEEE Global IoT Summit 2019'
 citation: 'Elsaleh, T., Bermudez-Edo, M., Enshaeifar, S., Acton, S.T., Rezvani, R. and Barnaghi, P. (2019). &quot;IoT-stream: a Lightweight Ontology for Internet of Things Data Streams.&quot; <i>2019 Global IoT Summit (GIoTS)</i>. (pp. 1-6) IEEE.'

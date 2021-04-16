@@ -2,7 +2,7 @@
 title: "IoT-Stream: A Lightweight Ontology for Internet of Things Data Streams and Its Use with Data Analytics and Event Detection Services"
 collection: publications
 permalink: /publication/2020-01-IoT-stream
-excerpt: 'In this paper, we propose a pattern representation method which represents time-series frames as vectors by first applying Piecewise Aggregate Approximation (PAA) and then applying Lagrangian Multipliers.'
+excerpt: 'In this paper, we propose a pattern representation method which represents time-series frames as vectors by first applying Piecewise Aggregate Approximation (PAA) and then applying Lagrangian Multipliers. [[PDF]](https://www.mdpi.com/1424-8220/20/4/953/htm) [[CODE]](http://iot.ee.surrey.ac.uk/iot-crawler/ontology/iot-stream/)'
 date: 2020-02-11
 venue: 'Sensors'
 citation: 'Elsaleh, T., Enshaeifar, S., Rezvani, R., Acton, S.T., Janeiko, V. and Bermudez-Edo, M. (2020). &quot;IoT-Stream: A lightweight ontology for internet of things data streams and its use with data analytics and event detection services.&quot; <i>Sensors, 20(4)</i>. p.953.'

@@ -2,7 +2,7 @@
 title: "A New Pattern Representation Method for Time-series Data"
 collection: publications
 permalink: /publication/2019-12-23-new-pattern-reprsentation
-excerpt: 'In this paper, we propose a pattern representation method which represents time-series frames as vectors by first applying Piecewise Aggregate Approximation (PAA) and then applying Lagrangian Multipliers.'
+excerpt: 'In this paper, we propose a pattern representation method which represents time-series frames as vectors by first applying Piecewise Aggregate Approximation (PAA) and then applying Lagrangian Multipliers. [[PDF]](https://epubs.surrey.ac.uk/853358/1/IEEE_TKDE_Final.pdf) [[CODE]](https://codeocean.com/capsule/8368953/tree)'
 date: 2019-12-23
 venue: 'IEEE Transactions on Knowledge and Data Engineering'
 citation: 'Rezvani, R., Barnaghi, P. and Enshaeifar, S. (2019). &quot;A New Pattern Representation Method for Time-series Data.&quot; <i>IEEE Transactions on Knowledge and Data Engineering</i>.'

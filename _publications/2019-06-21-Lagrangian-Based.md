@@ -2,7 +2,7 @@
 title: "Lagrangian-Based Pattern Extraction for Edge Computing in the Internet of Things"
 collection: publications
 permalink: /publication/2019-06-21-Lagrangian-Based
-excerpt: ' In this paper, we introduce a pattern extraction method which uses both the Lagrangian Multiplier and the Principal Component Analysis (PCA) to create patterns from raw sensory data.'
+excerpt: ' In this paper, we introduce a pattern extraction method which uses both the Lagrangian Multiplier and the Principal Component Analysis (PCA) to create patterns from raw sensory data. [[PDF]](https://epubs.surrey.ac.uk/851822/1/Lagrangian-based-pattern-Rezvani.pdf) [[CODE]](https://github.com/RoonakR/Pattern_Extraction)'
 date: 2019-06-21
 venue: '2019 6th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud)/2019 5th IEEE International Conference on Edge Computing and Scalable Cloud (EdgeCom)'
 citation: 'Rezvani, R., Enshaeifar, S. and Barnaghi, P. (2019, June). &quot;Lagrangian-based pattern extraction for edge computing in the internet of things.&quot; <i>2019 6th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud)/2019 5th IEEE International Conference on Edge Computing and Scalable Cloud (EdgeCom)</i>. (pp. 177-182). IEEE.'
